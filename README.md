@@ -21,5 +21,5 @@ FatihState.fatihStateCreateAgain(context);
 
 Usage
 call from anywhere
-[FatiYazdiState.fatihStateCreateAgain] FatihState.fatihStateCreateAgain(context);
-Some Useful Tips --
+FatihState.fatihStateCreateAgain(context);
+
